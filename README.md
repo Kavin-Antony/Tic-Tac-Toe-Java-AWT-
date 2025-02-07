@@ -20,9 +20,9 @@ A simple Tic-Tac-Toe game built using Java AWT (Abstract Window Toolkit). This g
    java TicTacToeAWT
 ```
 ## Controls
-	•	Click on any empty tile to place your mark (X or O).
-	•	Players take turns marking the grid.
-	•	The game announces the winner or a tie when the board is full.
+- Click on any empty tile to place your mark (X or O).
+- Players take turns marking the grid.
+- The game announces the winner or a tie when the board is full.
 
 ## Requirements
-	•	Java Development Kit (JDK) 8 or later.
+- Java Development Kit (JDK) 8 or later.
